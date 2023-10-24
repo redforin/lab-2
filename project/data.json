@@ -1,0 +1,24 @@
+[ {
+  "@class" : "com.example.project.Fruit",
+  "kkal" : 100,
+  "title" : "Яблоко",
+  "id" : 1,
+  "isFresh" : true,
+  "description" : "Фрукт свежий"
+}, {
+  "@class" : "com.example.project.Chocolate",
+  "kkal" : 200,
+  "title" : "шоколад Аленка",
+  "id" : 2,
+  "type" : "milk",
+  "description" : "Шоколад молочный"
+}, {
+  "@class" : "com.example.project.Cookie",
+  "kkal" : 300,
+  "title" : "сладкая булочка с Маком",
+  "id" : 3,
+  "withSugar" : true,
+  "withPoppy" : true,
+  "withSesame" : false,
+  "description" : "Булочка с сахаром, с маком"
+} ]
